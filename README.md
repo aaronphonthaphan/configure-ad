@@ -52,7 +52,7 @@ Then create the Windows 10 VM (Client-1), make sure it's in the same resource gr
 <br />
 
 <p>
-<img src="https://i.imgur.com/2On7GkF.png"/>
+<img src="https://i.imgur.com/msOGewn.png"/>
 </p>
 <p>
 Now go into DC-1 and click into the NIC (network interface card) as shown above.
@@ -60,7 +60,7 @@ Now go into DC-1 and click into the NIC (network interface card) as shown above.
 <br />
 
 <p>
-<img src="https://i.imgur.com/iBiPkNw.png"/>
+<img src="https://i.imgur.com/VV6i9aG.png"/>
 </p>
 <p>
 Then go into IP configurations and click on DC-1's configuration.
@@ -175,7 +175,8 @@ After you add Jane to the domain admins security group, logout and logon to DC-1
 <br />
 
 <p>
-<img src="https://i.imgur.com/8OmbFP9.png"/>
+<img src="https://i.imgur.com/0mKMVQD.png"/>
+  <img src="https://i.imgur.com/BbCHEQu.png"/>
 </p>
 <p>
 Now set Client-1's DNS server to the private IP of DC-1, in the case of mine it was 10.0.0.4.
